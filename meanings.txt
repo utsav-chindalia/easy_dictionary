@@ -1,0 +1,204 @@
+['compre', 'direr', 'contraction', 'recession', 'unpropitious', 'historically', 'risky', 'endeavor', 'wouldbe', 'positively', 'recession', 'highvalue', 'manages', 'solvent', 'inevitable', 'dearth', 'capitalist', 'renting', 'outlay', 'heavier', 'interprets', 'recession', 'nuanced', 'viability', 'lowversus', 'highvalue', 'analogy', 'hampered', 'cannot', 'prevalence', 'lowvalue', 'renting', 'dire', 'inferred', 'recession', 'highvalue', 'sharply', 'moderately', 'risen', 'sharply']
+----------------------------------------------------
+Original length =  2565
+New length =  40
+Word:  direr
+Definition-0:  extremely serious or urgent. 
+
+Definition-1:  of a very poor quality. 
+
+****************************************************************************************************
+Word:  contraction
+Definition-0:  the process of becoming smaller. 
+
+****************************************************************************************************
+Word:  recession
+Definition-0:  a period of temporary economic decline during which trade and industrial activity are reduced, generally identified by a fall in GDP in two successive quarters. 
+
+Definition-1:  the action of receding; motion away from an observer. 
+
+****************************************************************************************************
+Word:  unpropitious
+Definition-0:  (of a circumstance) not giving or indicating a good chance of success; unfavourable. 
+
+****************************************************************************************************
+Word:  historically
+Definition-0:  with reference to past events. 
+
+****************************************************************************************************
+Word:  risky
+Definition-0:  full of the possibility of danger, failure, or loss. 
+
+Definition-1:  risqué. 
+
+****************************************************************************************************
+Word:  endeavor
+Definition-0:  try hard to do or achieve something. 
+
+Definition-0:  an attempt to achieve a goal. 
+
+****************************************************************************************************
+Word:  positively
+Definition-0:  in a positive way, especially by expressing optimism, agreement, or acceptance. 
+
+Definition-1:  used to emphasize that something is the case, even though it may seem surprising. 
+
+****************************************************************************************************
+Word:  recession
+Definition-0:  a period of temporary economic decline during which trade and industrial activity are reduced, generally identified by a fall in GDP in two successive quarters. 
+
+Definition-1:  the action of receding; motion away from an observer. 
+
+****************************************************************************************************
+Word:  manages
+Definition-0:  be in charge of (a business, organization, or undertaking); run. 
+
+Definition-1:  succeed in surviving or in achieving something despite difficult circumstances; cope. 
+
+****************************************************************************************************
+Word:  solvent
+Definition-0:  having assets in excess of liabilities; able to pay one's debts. 
+
+Definition-1:  able to dissolve other substances. 
+
+Definition-0:  the liquid in which a solute is dissolved to form a solution. 
+
+****************************************************************************************************
+Word:  inevitable
+Definition-0:  certain to happen; unavoidable. 
+
+Definition-0:  a situation that is unavoidable. 
+
+****************************************************************************************************
+Word:  dearth
+Definition-0:  a scarcity or lack of something. 
+
+****************************************************************************************************
+Word:  capitalist
+Definition-0:  a person who uses their wealth to invest in trade and industry for profit in accordance with the principles of capitalism. 
+
+Definition-0:  supporting or based on the principles of capitalism. 
+
+****************************************************************************************************
+Word:  renting
+Definition-0:  pay someone for the use of (something, typically property, land, or a car). 
+
+****************************************************************************************************
+Word:  outlay
+Definition-0:  an amount of money spent on something. 
+
+****************************************************************************************************
+Word:  heavier
+Definition-0:  of great weight; difficult to lift or move. 
+
+Definition-1:  of great density; thick or substantial. 
+
+Definition-2:  of more than the usual size, amount, or intensity. 
+
+Definition-3:  striking or falling with force. 
+
+Definition-4:  needing much physical effort. 
+
+Definition-5:  very important or serious. 
+
+****************************************************************************************************
+Word:  interprets
+Definition-0:  explain the meaning of (information or actions). 
+
+Definition-1:  translate orally or into sign language the words of a person speaking a different language. 
+
+****************************************************************************************************
+Word:  recession
+Definition-0:  a period of temporary economic decline during which trade and industrial activity are reduced, generally identified by a fall in GDP in two successive quarters. 
+
+Definition-1:  the action of receding; motion away from an observer. 
+
+****************************************************************************************************
+Word:  nuanced
+Definition-0:  characterized by subtle shades of meaning or expression. 
+
+****************************************************************************************************
+Word:  viability
+Definition-0:  ability to work successfully. 
+
+****************************************************************************************************
+Word:  analogy
+Definition-0:  a comparison between one thing and another, typically for the purpose of explanation or clarification. 
+
+****************************************************************************************************
+Word:  hampered
+Definition-0:  hinder or impede the movement or progress of. 
+
+****************************************************************************************************
+Word:  cannot
+Definition-0:  can not. 
+
+****************************************************************************************************
+Word:  prevalence
+Definition-0:  the fact or condition of being prevalent; commonness. 
+
+****************************************************************************************************
+Word:  renting
+Definition-0:  pay someone for the use of (something, typically property, land, or a car). 
+
+****************************************************************************************************
+Word:  dire
+Definition-0:  extremely serious or urgent. 
+
+Definition-1:  of a very poor quality. 
+
+****************************************************************************************************
+Word:  inferred
+Definition-0:  deduce or conclude (something) from evidence and reasoning rather than from explicit statements. 
+
+****************************************************************************************************
+Word:  recession
+Definition-0:  a period of temporary economic decline during which trade and industrial activity are reduced, generally identified by a fall in GDP in two successive quarters. 
+
+Definition-1:  the action of receding; motion away from an observer. 
+
+****************************************************************************************************
+Word:  sharply
+Definition-0:  with a sharp or steeply tapering edge or point. 
+
+Definition-1:  with a sudden, piercing physical sensation or effect; intensely. 
+
+Definition-2:  in a way that is distinct in outline or detail; clearly. 
+
+Definition-3:  with a sudden and marked change; dramatically. 
+
+Definition-4:  with speed of perception, comprehension, or response. 
+
+****************************************************************************************************
+Word:  moderately
+Definition-0:  to a certain extent; quite; fairly. 
+
+****************************************************************************************************
+Word:  risen
+Definition-0:  move from a lower position to a higher one; come or go up. 
+
+Definition-1:  get up from lying, sitting, or kneeling. 
+
+Definition-2:  cease to be submissive, obedient, or peaceful. 
+
+Definition-3:  (of a river) have its source. 
+
+Definition-4:  (of land or a natural feature) incline upwards; become higher. 
+
+Definition-5:  increase in number, size, amount, or degree. 
+
+Definition-6:  approaching (a specified age). 
+
+****************************************************************************************************
+Word:  sharply
+Definition-0:  with a sharp or steeply tapering edge or point. 
+
+Definition-1:  with a sudden, piercing physical sensation or effect; intensely. 
+
+Definition-2:  in a way that is distinct in outline or detail; clearly. 
+
+Definition-3:  with a sudden and marked change; dramatically. 
+
+Definition-4:  with speed of perception, comprehension, or response. 
+
+****************************************************************************************************
